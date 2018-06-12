@@ -1,0 +1,6 @@
+[submodule "book/android-performance-book"]
+	path = book/android-performance-book
+	url = git@github.com:imbakn/android-performance-book.git
+[submodule "book/android-system-analyze"]
+	path = book/android-system-analyze
+	url = git@github.com:imbakn/android-system-analyze.git
